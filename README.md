@@ -6,7 +6,7 @@ Designed for use with:
 
 * Arduino Nano / Uno (ATmega328P)
 * ZX Spectrum projects that accept PS/2 keyboard input
-* Especially compatible with **ESPectrum** (TTGO VGA32 ZX Spectrum emulator)
+* Especially compatible with [**ESPectrum**](https://github.com/EremusOne/ESPectrum) (TTGO VGA32 ZX Spectrum emulator)
 
 ---
 

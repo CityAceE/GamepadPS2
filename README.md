@@ -66,7 +66,7 @@ No additional ICs required.
 
 ## 🔌 Hardware Requirements
 
-* Arduino Nano or Uno (ATmega328P)
+* Arduino Nano or Uno (ATmega328P, ATmega168)
 * Standard NES controller
 * 9 wires
 * Soldering iron

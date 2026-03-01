@@ -68,7 +68,7 @@ No additional ICs required.
 
 * Arduino Nano or Uno (ATmega328P)
 * Standard NES controller
-* 6 wires
+* 9 wires
 * Soldering iron
 
 That’s it.
